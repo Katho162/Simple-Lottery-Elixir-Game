@@ -1,21 +1,11 @@
-# App
+# Simple Lottery Elixir Game
 
-**TODO: Add description**
+Just a simple Portuguese version of my personal "mini-project" to improve my elixir knowledge.
 
-## Installation
+## Execution
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `app` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:app, "~> 0.1.0"}
-  ]
-end
+To execute the program first compile and open the iex using `iex -S mix`. After that just use:
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/app](https://hexdocs.pm/app).
+iex> App.start
+```
 
